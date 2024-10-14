@@ -1,0 +1,4 @@
+Hello, World!
+Welcome to Lesson 2: Operations on a File.
+This file will be used for demonstrating various read operations.
+Enjoy learning Python file handling!
